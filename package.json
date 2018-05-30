@@ -10,6 +10,9 @@
   "nativePackage": true,
   "license": "MIT",
   "homepage": "https://github.com/lwansbrough/react-native-camera",
+  "dependencies": {
+    "prop-types": "15.5.10"
+  },
   "keywords": [
     "react-native",
     "react",
